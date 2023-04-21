@@ -14,3 +14,5 @@ https://data.wprdc.org/dataset/allegheny-county-zip-code-boundaries2/resource/0c
 https://data.wprdc.org/dataset/pgh/resource/b7156251-6036-4b68-ad2a-95566c84343e
 
 This project seeks to find the best neighborhood from the framework of "sharing spaces".  Each dataset's zipcode appearances are counted and compared to the zipcode population to find the neighborhood with the most 'sharing' attitude.  
+
+Presentation: https://docs.google.com/presentation/d/14hMNAc0XfPQ2qiqf0lTbqvX97HrbtcAB2ByAmculG48/edit?usp=sharing
